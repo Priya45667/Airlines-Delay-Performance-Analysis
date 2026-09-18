@@ -124,3 +124,7 @@ This interactive dashboard enables airline operation managers and strategy plann
 * Target core delay causes (Carrier vs. Late Aircraft) to improve turnaround workflows.
 * Reallocate resources at high-congestion airport hubs like Chicago O'Hare and Atlanta.
 * Make data-backed decisions for flight scheduling and buffer planning.
+
+* DASHBOARD -
+  <img width="1362" height="722" alt="Airlines_Delay_Performance" src="https://github.com/user-attachments/assets/96e0b1f3-927c-48e6-a995-82e214162d4e" />
+
